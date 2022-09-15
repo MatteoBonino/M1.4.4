@@ -105,11 +105,11 @@ aggiornati, sia per studenti che docenti
 <a name="sp3.1"></a>
 ### 3.1 Stakeholders
 Gli stakeholders coinvolti nel progetto possono essere divisi nei seguenti gruppi:
--Client: Università degli Studi di Genova, Città Metropolitana di Genova, Assessore 
+##-Client: Università degli Studi di Genova, Città Metropolitana di Genova, Assessore 
 della Cultura
--Regulators: un team dedicato alla verifica del rispetto dei regolamenti universitari 
+##-Regulators: un team dedicato alla verifica del rispetto dei regolamenti universitari 
 vigenti al fine di garantire massima trasparenza e regolarità delle procedure
--Users: studenti e docenti sono in primis coloro che agiranno sul SW; avranno altresì 
+##-Users: studenti e docenti sono in primis coloro che agiranno sul SW; avranno altresì 
 accesso anche il personale universitario, amministrativo e direttivo
 
 <a name="sp3.2"></a>
