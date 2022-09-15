@@ -82,13 +82,13 @@ tra studente e docente.
 
 ### 2.2 Project Obectives 
 Gli obiettivi che si prevede di raggiungere sono:
--Realizzare un SW che sia in grado di funzionare sulla maggior parte delle piattaforme in 
+Realizzare un SW che sia in grado di funzionare sulla maggior parte delle piattaforme in 
 uso: smartphone iOS/Android, PC Windows, PC MacOS
--Alleggerire il personale scolastico dal carico di lavoro
--Permettere la fruizione dei servizi anche a distanza, in particolare per venire incontro
+Alleggerire il personale scolastico dal carico di lavoro
+Permettere la fruizione dei servizi anche a distanza, in particolare per venire incontro
 a studenti fuori sede, con disabilità motorie, e per ridurre i contatti fisici in seguito 
 alla pandemia CoVid 19
--Permettere di effettuare cambiamenti, verificare lo stato e essere costantemente 
+Permettere di effettuare cambiamenti, verificare lo stato e essere costantemente 
 aggiornati, sia per studenti che docenti
 
 <a name="p3"></a>
@@ -105,11 +105,11 @@ aggiornati, sia per studenti che docenti
 <a name="sp3.1"></a>
 ### 3.1 Stakeholders
 Gli stakeholders coinvolti nel progetto possono essere divisi nei seguenti gruppi:
-##-Client: Università degli Studi di Genova, Città Metropolitana di Genova, Assessore 
+Client: Università degli Studi di Genova, Città Metropolitana di Genova, Assessore 
 della Cultura
-##-Regulators: un team dedicato alla verifica del rispetto dei regolamenti universitari 
+Regulators: un team dedicato alla verifica del rispetto dei regolamenti universitari 
 vigenti al fine di garantire massima trasparenza e regolarità delle procedure
-##-Users: studenti e docenti sono in primis coloro che agiranno sul SW; avranno altresì 
+Users: studenti e docenti sono in primis coloro che agiranno sul SW; avranno altresì 
 accesso anche il personale universitario, amministrativo e direttivo
 
 <a name="sp3.2"></a>
