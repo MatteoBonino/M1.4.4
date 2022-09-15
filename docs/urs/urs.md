@@ -125,6 +125,8 @@ accesso anche il personale universitario, amministrativo e direttivo
 | 2.1 |	 Studente potrà visualizzare la lista dei corsi superati con il voto |M|
 | 2.2 |  Studente potrà visualizzare la lista degli esami a cui iscriversi |M|
 | 2.3 |  Studente potrà iscriversi nuovamente ad un esame se non superato |M|
+| 3.0 |  Studente e Docente dovrebbero avere la possibilità di segnalare eventuali erroi |D|
+| 3.1 |  Il SW dovrebbe permettere di estrarre dei files PDF delle liste |D|
 
 <a name="sp3.3"></a>
 ### 3.2 Non-Functional Requirements 
@@ -134,6 +136,5 @@ accesso anche il personale universitario, amministrativo e direttivo
 | 1.0 | Il SW deve poter gestire un numero di almeno 50000 utenti in contemporanea |M|
 | 1.1 | Il SW deve essere compatibile con PC Windows e PC MacOS |M|
 | 2.1 | Il SW dovrebbe poter essere compatibile con smartphone iOS e Android |D|
-| 2.2 | Il SW dovrebbe permettere di estrarre dei files PDF delle liste |D|
 | 3.1 | Il SW dovrebbe essere accessibile a persone ipovedenti |O|
 | 3.2 | Il SW dovrebbe essere disponibile in inglese, francese, tedesco, spagnolo |O|
